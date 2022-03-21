@@ -5,7 +5,7 @@ Seus principais valores é proporcionar um controle e planejamento financeiro f�
 
 Os principais diferenciais da plataforma, é a integração com o WhatsApp, com um assistente virtual que auxilia o usuário durante todos os processos, e a inclusão, com possibilidade de comandos por voz e leitura de textos. 
 
-![Screenshot](Logo.png)
+![Screenshot](logo.png)
 ## A forma mais fácil de cuidar do seu dinheiro.
 
 <h4 align="center"> 
